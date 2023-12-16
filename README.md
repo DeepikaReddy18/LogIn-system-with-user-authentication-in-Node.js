@@ -10,6 +10,5 @@ Before you begin, ensure you have the following installed:
 
 Installation
 
-1. Clone this repository:
-2. 
-   git clone 
+1. Clone this repository:https://github.com/DeepikaReddy18/LogIn-system-with-user-authentication-in-Node.js/tree/main
+ 
